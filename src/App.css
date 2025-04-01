@@ -1,0 +1,21 @@
+.hero {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.about {
+  text-align: center;
+}
+
+.projects {
+  text-align: center;
+}
+
+
+.footer {
+  background: #f8f9fa;
+  padding: 10px 0;
+}
