@@ -1,0 +1,45 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+        "responses": ["Hello! How can I help you today?", "Hi there! What would you like to know about me?"]
+      },
+      {
+        "tag": "about_me",
+        "patterns": ["Tell me about yourself", "Who are you?", "Introduce yourself", "What do you do?"],
+        "responses": ["I'm a software developer passionate about building smart and scalable solutions. Ask me about my skills or projects!"]
+      },
+      {
+        "tag": "skills",
+        "patterns": ["What are your skills?", "What can you do?", "Your technical skills?", "List your skills"],
+        "responses": ["I'm skilled in Python, JavaScript, React, Django, and more. I love working on AI and full-stack projects."]
+      },
+      {
+        "tag": "projects",
+        "patterns": ["Tell me about your projects", "What projects have you done?", "Your work?", "Show me your portfolio"],
+        "responses": ["I've built a chatbot assistant, a portfolio website, a wedding website."]
+      },
+      {
+        "tag": "education",
+        "patterns": ["What is your educational background?", "Where did you study?", "Your education?", "What degree do you have?"],
+        "responses": ["I hold a Bachelor's degree in Information Technology. I graduated from APJ Abdul Kalam  University."]
+      },
+      {
+        "tag": "experience",
+        "patterns": ["Do you have any experience?", "Work experience?", "Where have you worked?", "Have you done internships?"],
+        "responses": ["Yes, I interned at Luminar Technolab as a python django developer and created multiple websites."]
+      },
+      {
+        "tag": "contact",
+        "patterns": ["How can I contact you?", "Your email?", "Reach you?", "Get in touch"],
+        "responses": ["You can contact me via email at hasnafathima289@gmail.com or reach out through LinkedIn ."]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you", "Goodbye", "Talk to you later"],
+        "responses": ["Goodbye! Feel free to ask me anything anytime.", "See you soon!"]
+      }
+    ]
+  }
+  
